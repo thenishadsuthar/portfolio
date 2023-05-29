@@ -11920,6 +11920,8 @@ h1, h2, h3, h4, h5,
 
 .owl-carousel.home-slider .slider-item .slider-text .one-forth .text {
   width: 100%;
+  position: absolute;
+  bottom: 10px;
 }
 
 @media (min-width: 992px) {
